@@ -249,3 +249,7 @@ Seeed Studio is an open hardware facilitation company based in Shenzhen, China. 
 Benefiting from local manufacture power and convenient global logistic system, <br>
 we integrate resources to serve new era of innovation. Seeed also works with <br>
 global distributors and partners to push open hardware movement.<br>
+
+  Addendum:
+  I add "caraudios" directory in "examples", where I will place my code for arduino based converters between streeng wheel    buttons and aftermarket car stereos.
+  1. 2011 Dodge Avenger, internal CAN-B 83,3k, the head - Pioneer MVH-200EX, stadarded 3,5mm jack for managing the devices by resistence. 
